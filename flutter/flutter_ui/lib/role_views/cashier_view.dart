@@ -26,7 +26,7 @@ class CashierView extends StatelessWidget {
         ],
       ),
       body: const Center(
-        child: Text('This is the cashier view'),
+        child: Text('This is the cashier view, Welcome Cashier!'),
       ),
     );
   }
