@@ -26,7 +26,7 @@ class AdminView extends StatelessWidget {
         ],
       ),
       body: const Center(
-        child: Text('This is the Admin view'),
+        child: Text('This is the Admin view, Welcome Admin!'),
       ),
     );
   }
